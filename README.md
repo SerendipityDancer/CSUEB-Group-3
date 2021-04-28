@@ -25,4 +25,4 @@ Welcome to the CSUEB-Group-3 wiki!
 >* [A. Experimentation](https://github.com/SerendipityDancer/CSUEB-Group-3/wiki/Experimentation-&-Priorities#experimentation)
 >* [B. Priorities](https://github.com/SerendipityDancer/CSUEB-Group-3/wiki/Experimentation-&-Priorities#priorities)
 >
->[YouTube Presentation](https://www.youtube.com/)
+>[YouTube Presentation](https://www.youtube.com/watch?v=MWaGtU5GW40)
